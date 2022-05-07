@@ -1,6 +1,6 @@
 output "ip_address" {
   description = "The public IP address of the faasd instance"
-  value       = "http://${linode_instance.faasd_instance.ip_address}:8080"
+  value       = linode_instance.faasd_instance.ip_address
 }
 
 output "gateway_url" {
