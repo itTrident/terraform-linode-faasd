@@ -80,4 +80,4 @@ module "faasd" {
 - [faasd on Equinix Metal with Terraform](https://github.com/jsiebens/terraform-equinix-faasd)
 - [faasd on Scaleway with Terraform](https://github.com/jsiebens/terraform-scaleway-faasd)
 - [faasd on Vultr with Terraform](https://github.com/itTrident/terraform-vultr-faasd)
-- [faasd on Linode with Terraform](https://github.com/itTrident/terraform-linode-faasd)
+- [faasd on Exoscale with Terraform](https://github.com/itTrident/terraform-exoscale-faasd)
