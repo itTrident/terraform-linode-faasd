@@ -1,5 +1,5 @@
 variable "api_token" {
-  description = " Linode API token"
+  description = "Linode API token"
 }
 
 variable "basic_auth_password" {
